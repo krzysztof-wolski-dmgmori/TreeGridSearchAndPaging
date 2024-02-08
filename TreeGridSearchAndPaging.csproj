@@ -6,6 +6,6 @@
     <RootNamespace>TreeGridSearchAndPaging</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="24.1.41" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="24.2.4" />
   </ItemGroup>
 </Project>
